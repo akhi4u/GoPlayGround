@@ -1,2 +1,2 @@
 # GoPlayGround
-My GO play ground for GitPod
+My GO play ground.
